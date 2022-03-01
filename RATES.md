@@ -1,8 +1,7 @@
 # Rates
 
 - Development
-- Consulting
 - Code review
 - Talks
-- Educational programs
+- Education
 - etc.

@@ -4,5 +4,5 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>💡 [Skills](SKILLS.md)</code>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
-<code>💬 telegram: [@wq](https://telegram.me/wqcod)</code>
+<code>💬 telegram: [wqcod](https://t.me/wqcod)</code>
 <code>📫 [timur-shatanov.work@mail.ru](mailto:timur-shatanov.work@mail.ru)</code>

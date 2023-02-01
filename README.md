@@ -3,6 +3,6 @@
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>💡 [Skills](SKILLS.md)</code>
-<code>🧑‍💻 Languages: JavaScript, Python</code>
+<code>🧑‍💻 Languages: JavaScript, C#, Python</code>
 <code>💬 telegram: [wqcod](https://t.me/wqcod)</code>
 <code>📫 [timur-shatanov.work@mail.ru](mailto:timur-shatanov.work@mail.ru)</code>
